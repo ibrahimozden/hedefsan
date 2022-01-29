@@ -4,6 +4,13 @@ Laravel ile hazırladığım, firmanın müşterileri için hazırladığı mobi
 
 <h1>Projeden örnek fotoğraflar:</h1>
 1)
-![2022-01-29 (6)](https://user-images.githubusercontent.com/43759769/151667204-33d5c23a-1bef-47b2-b3ac-5b6ede95c051.png)
-2)![2022-01-29 (7)](https://user-images.githubusercontent.com/43759769/151667218-4be4a2a6-00db-4941-875b-c4fade6174a7.png)
-3)![2022-01-29 (8)](https://user-images.githubusercontent.com/43759769/151667238-d259dd5d-adeb-447c-8f31-b749b334a1fb.png)
+
+![2022-01-29 (6)](https://user-images.githubusercontent.com/43759769/151667268-111b9529-aa9d-4380-bf02-ac093c548738.png)
+
+2)
+
+![2022-01-29 (7)](https://user-images.githubusercontent.com/43759769/151667279-2b7b54ee-3767-4998-98e2-24e02ab996dd.png)
+
+3)
+
+![2022-01-29 (8)](https://user-images.githubusercontent.com/43759769/151667297-f9056169-f037-49da-9d3f-7dd1a58c08ab.png)
