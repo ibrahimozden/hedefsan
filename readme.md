@@ -3,6 +3,7 @@
 Laravel ile hazırlanan, firmanın müşterileri için hazırladığı mobil uygulamasında göstermesi gereken verileri ekleyip sildiği ve düzenlediği yapıyı barındıran web site projesidir. Projenin frontend kısmında hazır admin paneli kullanıldı fakat müşterinin isteklerine göre css de değişiklikler yapıldı. Veri tabanı olarak mysql kullanıldı. Proje hala müşteri tarafından kullanılmaktadır ve izin vermesi halinde canlıda gösterilebilir.
 
 <h1>Projeden örnek fotoğraflar:</h1>
+
 1)
 
 ![2022-01-29 (6)](https://user-images.githubusercontent.com/43759769/151667268-111b9529-aa9d-4380-bf02-ac093c548738.png)
